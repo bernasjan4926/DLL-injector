@@ -4,7 +4,8 @@ in python
 (WIP)
 dosnt work yet still working on it
 only GUI for now
-#to report any bugs or issues with this repository use the issues on github
+# to report any bugs or issues with this repository use the issues on github
+https://github.com/bernasjan4926/Frosty-DLL-injector/issues
 
 
 
@@ -26,3 +27,10 @@ add the folder to exclusions if it gets false flagged this is caused by antiviru
 how a DLL injector works is injecting a .DLL file (basically a addon file that will modify the game)
 if u want to get some good cheat DLL's
 https://www.unknowncheats.me/ would be my recommendation
+if you dont trust this repository you can build it from the .py file or make a PyCharm project etc.
+# how to build
+install any IDE(of your choice)
+1 make sure you have python support on your IDE to be able to compile python code
+2 download the source code
+3 load into your IDE 
+4 now press build to build it
