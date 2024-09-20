@@ -5,7 +5,6 @@ in python
 dosnt work yet still working on it
 only GUI for now
 #to report any bugs or issues with this repository use the issues on github
-#Frosty-DLL-injector
 
 
 
