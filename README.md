@@ -4,7 +4,7 @@
 **(WIP)**
 **(UPDATED) now works and is made in C++**
 **(CHECK BOTTOM FOR BUILD INSTRUCTIONS)**
-
+**i am not responsible for any ingame bans use at own risk will add obfuscator next update for less chance of being detected**
 
 
 
