@@ -18,6 +18,13 @@
 
 
 # how to install
+
+
+https://youtu.be/uAEdxDHgUa4
+
+
+
+
 **1 extract the .zip file**
 **2 open the extracted file**
 **3 run the .exe as admin to avoid any conflicts**
