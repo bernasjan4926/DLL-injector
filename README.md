@@ -39,8 +39,9 @@ if u want to get some good cheat DLL's
 https://www.unknowncheats.me/ would be my recommendation
 if you dont trust this repository you can build it from the .py file or make a PyCharm project etc.
 # how to build
-install any IDE(of your choice)
+install any IDE(of your choice) recommend PyCharm: https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
 1 make sure you have python support on your IDE to be able to compile python code
-2 download the source code
-3 load into your IDE 
-4 now press build to build it
+2 download the .py file
+3 open your IDE select new project
+4 press file then load select the .py then OK
+5 press the run button to build it
