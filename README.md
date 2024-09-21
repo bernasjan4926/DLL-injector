@@ -20,7 +20,10 @@
 # how to install
 
 
-https://youtu.be/uAEdxDHgUa4
+
+https://github.com/user-attachments/assets/125605bb-4b3e-4168-9a71-7fac8759b1ef
+
+
 
 
 
