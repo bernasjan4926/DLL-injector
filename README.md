@@ -29,9 +29,9 @@ https://github.com/user-attachments/assets/125605bb-4b3e-4168-9a71-7fac8759b1ef
 
 **UPDATED**
 **you still install it the same way and usage the same way only there is no dropdown menu to select process as you now have to fetch the process ID**
-**1 extract the .zip file**
-**2 open the extracted file**
-**3 run the .exe as admin to avoid any permission errors**
+**extract the .zip file**
+**open the extracted file**
+**run the .exe as admin to avoid any permission errors**
 # how to use
 **open the game/app u want to inject into**
 **fetch the process ID of the game/app u want to inject to get the process ID of the game/app open taskmanager go to details locate the game/app and look at its PID then enter it in the DLL injector and inject**
