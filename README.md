@@ -7,6 +7,7 @@
 **i am not responsible for any ingame bans use at own risk will add obfuscator next update for less chance of being detected**
 
 
+![30be9e3c-e7e4-41e8-bb1a-18bb49137099](https://github.com/user-attachments/assets/5072331a-beeb-460a-92e2-d2cea4d1dd9d)
 
 
 # to report any bugs or issues with this repository use the issues on github
