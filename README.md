@@ -20,7 +20,7 @@ https://github.com/bernasjan4926/Frosty-DLL-injector/issues
 # how to install
 1 extract the .zip file
 2 open the extracted file
-3 open the .exe
+3 run the .exe as admin to avoid any conflicts
 # how to use
 open the game u want to load the .DLL into or the process you want to inject into
 open the dropdown menu select the game process
