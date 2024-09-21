@@ -3,3 +3,4 @@ changes made
 now updated to v2
 new GUI completely remade
 now made in c++
+removed the .py file as it is no longer in python
