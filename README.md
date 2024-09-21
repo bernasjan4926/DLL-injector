@@ -2,7 +2,7 @@
 **small DLL injector**
 **in python** 
 **(WIP)**
-**dosnt work yet still working on it**
+**dosnt work yet because of some permission errors will be fixed in next release**
 **only GUI for now**
 
 
