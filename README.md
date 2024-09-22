@@ -1,5 +1,5 @@
 # Frosty-DLL-injector
-**small DLL injector**
+**Small DLL injector**
 **in C++** 
 **(WIP)**
 **(UPDATED) now works and is made in C++**
