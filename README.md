@@ -1,4 +1,4 @@
-# Frosty-DLL-injector
+# DLL-injector
 **DLL injector**
 **in C++** 
 **(WIP)**
