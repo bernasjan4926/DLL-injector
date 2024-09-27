@@ -11,7 +11,7 @@
 
 
 # to report any bugs or issues with this repository use the issues on github
-**https://github.com/bernasjan4926/Frosty-DLL-injector/issues**
+**https://github.com/bernasjan4926/DLL-injector/issues**
 
 
 
